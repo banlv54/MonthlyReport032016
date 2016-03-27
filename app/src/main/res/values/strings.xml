@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MonthlyReport032016</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">1695840743982306</string>
+    <string name="title1">Design: Lê Văn Ban</string>
+    <string name="link_shared">Nhập link bạn muốn chia sẻ</string>
+    <string name="button_shared">Chia sẻ</string>
+</resources>
